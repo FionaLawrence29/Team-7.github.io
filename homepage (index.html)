@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tragedy of the Commons</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>The Tragedy of the Commons</h1>
+        <p>A Lesson on Sustainability and Shared Responsibility</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="lesson.html">Lesson Overview</a></li>
+            <li><a href="objective.html">Objectives</a></li>
+            <li><a href="introduction.html">Introduction</a></li>
+            <li><a href="core_problem.html">Core Problem</a></li>
+            <li><a href="real_examples.html">Real Examples</a></li>
+            <li><a href="conclusion.html">Conclusion & Key Takeaways</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Welcome</h2>
+        <p>This website explores the concept of the Tragedy of the Commons, its real-world implications, and solutions for sustainable resource management.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Tragedy of the Commons | Educational Resource</p>
+    </footer>
+</body>
+</html>
